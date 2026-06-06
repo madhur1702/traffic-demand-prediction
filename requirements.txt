@@ -1,0 +1,9 @@
+pandas
+numpy
+lightgbm
+xgboost
+scikit-learn
+pygeohash
+jupyter
+matplotlib
+seaborn
